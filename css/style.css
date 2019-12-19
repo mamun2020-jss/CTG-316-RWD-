@@ -1,0 +1,52 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background: url(../img/photo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.container{
+	width: 600px;
+	margin: 0 auto;
+}
+
+.login-section{
+	background-color: #00ff4c70;
+	padding: 50px;
+}
+
+.login-section img{
+ display: block;
+ margin: 0 auto;
+}
+
+.login-section h2{
+  text-align: center;
+  color: #fff;
+  font-size: 38px;
+  text-transform: uppercase;
+  margin: 10px 0px;
+}
+
+.form-control{
+width: 100%;
+height: 30px;
+padding: 5px;
+margin: 10px 0px;
+}
+
+.btn{
+display: block;
+margin: 0 auto;
+padding: 7px 20px;
+font-size: 22px;
+background: black;
+border: none;
+color: #fff;
+text-transform: uppercase;
+
+}
